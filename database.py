@@ -1,9 +1,9 @@
 import psycopg2
 
 conn_params = {
-    'dbname': 'Flask',
-    'user': 'kingsleyatuba',
-    'password': '',
+    'dbname': 'Flask2',
+    'user': 'postgres',
+    'password': 'idontknow4',
     'host': 'localhost'
 }
 
